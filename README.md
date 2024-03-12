@@ -8,7 +8,8 @@ Skyline Highschool Exploring Computer Programming
 
 ## Group Projects
 ### BlackJack/Vingt-et-un
-[Github](https://github.com/Daniel71529/Blackjacks)
+Graphics Game Spotlighting Logic and Math
+[Repositories](https://github.com/Daniel71529/Blackjacks)
 ## Individual Projects
 
 
