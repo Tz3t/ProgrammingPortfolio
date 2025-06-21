@@ -29,13 +29,6 @@ OOP Graphics Calculator highlighting user interaction and input/output with math
 
 
 
-
-### ScreenSaver
-OOP Graphics ScreenSaver Highlights the use of completely random input
-![ScreenSaver Main](https://github.com/Tz3t/ProgrammingPortfolio/blob/main/images/Screenshot%202024-01-30%20at%2010.22.43%20AM.png?raw=true)
-
-[Sourcecode](https://github.com/Tz3t/ProgrammingPortfolio/blob/main/src/CalculatorKeyboard%203.zip)
-
 ### TimeLine
 ![TimeLine Main](https://github.com/Tz3t/ProgrammingPortfolio/blob/main/images/Screenshot%202024-01-30%20at%2010.27.33%20AM.png)
 ![TimeLine Hover](https://github.com/Tz3t/ProgrammingPortfolio/blob/main/images/Screenshot%202024-01-30%20at%2010.29.14%20AM.png?raw=true)
